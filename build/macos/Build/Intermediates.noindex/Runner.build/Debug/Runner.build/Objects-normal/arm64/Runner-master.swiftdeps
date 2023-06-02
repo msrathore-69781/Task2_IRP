@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "5df8ff94a9c97b6c4d7b728a36019b14b4b1e470696d4911ae2d3ac88d245f4e"
+build_start_time: [1685515619, 508634000]
+build_end_time: [1685515627, 95452000]
+inputs:
+  "/Users/skills/developing/question2/color_application/macos/Flutter/GeneratedPluginRegistrant.swift": [1685515603, 21856595]
+  "/Users/skills/developing/question2/color_application/macos/Runner/AppDelegate.swift": [1651667697, 316787868]
+  "/Users/skills/developing/question2/color_application/macos/Runner/MainFlutterWindow.swift": [1651667697, 318467948]
